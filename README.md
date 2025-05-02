@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm Zoe Faith Zebedee
+# 👋 Hi there, I'm **Zoe Faith Zebedee**
 
-I'm a dedicated **Frontend Developer** based in Nigeria 🇳🇬 with a strong passion for crafting intuitive, responsive, and accessible web interfaces. I specialize in building fast and scalable applications using modern frontend technologies, and I’m constantly learning to stay up-to-date with industry trends and best practices.
+I'm a dedicated **Frontend Developer** based in **Nigeria 🇳🇬** with a strong passion for crafting **intuitive**, **responsive**, and **accessible** web interfaces. I specialize in building fast and scalable applications using modern frontend technologies, and I’m constantly learning to stay up-to-date with industry trends and best practices.
 
 ---
 
 ## 💼 What I Do
-- ⚡ Craft responsive and accessible UI/UX experiences
-- 🛠 Integrate frontend applications with APIs and DevOps pipelines
-- ☁️ Deploy performant apps on the cloud (Azure, Vercel, Netlify)
-- 🔁 Write clean, reusable code following best practices
+- 🎨 Build modern, responsive, and accessible UI/UX experiences
+- 🔗 Integrate frontend applications with RESTful APIs
+- 🚀 Deploy performant web apps using platforms like **Vercel**, **Netlify**, and **Azure**
+- 🧼 Write clean, maintainable, and reusable code following best practices
 
 ---
 
@@ -33,29 +33,32 @@ I'm a dedicated **Frontend Developer** based in Nigeria 🇳🇬 with a strong p
 
 ## 📈 GitHub Stats
 
-![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=faith99-pixel&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith99-pixel&layout=compact&theme=dracula)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faith99-pixel&show_icons=true&theme=dracula" alt="Zoe's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faith99-pixel&layout=compact&theme=dracula" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zebedee-zoe-0456a51aa/)
-- 🧪 [Portfolio](https://) 
-- 💌 Email: zoezebedee1@gmail.com
+- 🌐 [Portfolio](https://)
+- 📧 Email: **zoezebedee1@gmail.com**
 
 ---
 
 ## 🧠 Currently Learning
-- Angular
-- System design for frontend architectures
-- CI/CD with GitHub Actions and Azure DevOps
+
+- 🅰️ Angular
+- 🏗 System design for frontend architecture
+- 🔁 CI/CD with GitHub Actions and Azure DevOps
 
 ---
 
 ## ⚡ Fun Fact
-> I enjoy breaking down complex frontend problems, mentoring junior devs, and learning about faith and technology.
+> I enjoy breaking down complex frontend problems, mentoring junior developers, and exploring the intersection of faith and technology.
 
 ---
 
-_Thanks for visiting! Feel free to fork this README or connect with me._ 🙌
+_Thanks for visiting! Feel free to fork this README or reach out to collaborate._ 🙌
