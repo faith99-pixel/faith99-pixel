@@ -43,7 +43,7 @@ I'm a dedicated **Frontend Developer** based in **Nigeria 🇳🇬** with a stro
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zebedee-zoe-0456a51aa/)
-- 🌐 [Portfolio](https://)
+- 🌐 [Portfolio](https://zoe-zebedee.vercel.app/)
 - 📧 Email: **zoezebedee1@gmail.com**
 
 ---
